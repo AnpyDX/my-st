@@ -1,0 +1,6 @@
+.cache/
+build/
+patches/
+st
+*.o
+*.orig

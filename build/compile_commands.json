@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/anpyd/Workspace/Suckless-Projects/st/build",
+  "command": "/usr/bin/cc  -I/usr/include/X11 -std=gnu99 -o CMakeFiles/st.dir/st.c.o -c /home/anpyd/Workspace/Suckless-Projects/st/st.c",
+  "file": "/home/anpyd/Workspace/Suckless-Projects/st/st.c"
+},
+{
+  "directory": "/home/anpyd/Workspace/Suckless-Projects/st/build",
+  "command": "/usr/bin/cc  -I/usr/include/X11 -std=gnu99 -o CMakeFiles/st.dir/x.c.o -c /home/anpyd/Workspace/Suckless-Projects/st/x.c",
+  "file": "/home/anpyd/Workspace/Suckless-Projects/st/x.c"
+}
+]

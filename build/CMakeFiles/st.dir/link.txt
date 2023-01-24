@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/st.dir/st.c.o CMakeFiles/st.dir/x.c.o -o st 
