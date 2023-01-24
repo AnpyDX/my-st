@@ -1,6 +1,6 @@
-.cache/
 build/
 patches/
+.cache/
 st
 *.o
 *.orig
