@@ -1,3 +1,0 @@
-/home/anpyd/Workspace/Suckless-Projects/st/build/CMakeFiles/st.dir
-/home/anpyd/Workspace/Suckless-Projects/st/build/CMakeFiles/edit_cache.dir
-/home/anpyd/Workspace/Suckless-Projects/st/build/CMakeFiles/rebuild_cache.dir
